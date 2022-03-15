@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">In the middle of becoming Full-Stack (MERN) Developer.Thank You for taking the time to view my GitHub Profile :smile:</h3>
 
-- 🌱 I’m currently learning **React.js,Redux**
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ React and Redux
+### - Hobbies : 
+- ✨ Travelling
+- ✨ Watching Anime
+- ✨ Reading Mangas Novels
 
-- 💬 Ask me about **TECH Stuff and something about Travelling and Fitness.**
-
-- 📫 How to reach me **dpk094508@gmail.com**
-
-- ⚡ Fun fact **Like to Travel,Watch Animes,Read Mangas and Fictional Stories.**
 
 <h3 align="left">Connect with me:</h3>
+<a href="mailto:dpk094508@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
 <p align="left">
 <a href="https://linkedin.com/in/deepak-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-kumar" height="30" width="40" /></a>
 </p>
