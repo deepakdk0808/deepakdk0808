@@ -12,7 +12,8 @@
 - ✨ Reading Mangas Novels
 
 
-<h3 align="left">Connect with me:</h3>
+
+### - Connect With Me :
 <a href="mailto:dpk094508@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
