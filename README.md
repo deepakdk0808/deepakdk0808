@@ -1,11 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">In the middle of becoming Full-Stack (MERN) Developer.Thank You for taking the time to view my GitHub Profile :smile:</h3>
+<h3 align="center">Full-Stack (MERN) Developer.Thank You for taking the time to view my GitHub Profile :smile:</h3>
 </div>
 
-### - Learning :
+### - Expertise :
 - ✨ Data Structures & Algorithms
 - ✨ React and Redux
+- ✨ Typescript
+- ✨ Next Js
 ### - Hobbies : 
 - ✨ Travelling
 - ✨ Watching Anime
