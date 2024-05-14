@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">Full-Stack (MERN) Developer.Thank You for taking the time to view my GitHub Profile :smile:</h3>
-<a href="https://docs.google.com/document/d/1djkBQEEkXesDxZM8ceWgqyFBN_AAXjxsIg8NaLyuqWE/edit">Find My Resume Here!</a>
+<a href="https://drive.google.com/file/d/1QM54upExsHSmwXVG3qRDuQx-0hlfikqK/view?usp=drive_link">Find My Resume Here!</a>
 </div>
 
 ### - Expertise :
