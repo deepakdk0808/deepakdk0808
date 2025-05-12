@@ -1,15 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">Full-Stack (MERN) Developer.Thank You for taking the time to view my GitHub Profile :smile:</h3>
-<a href="https://drive.google.com/file/d/17WkhMrBxvzTJcfA-iZqAR9-CtZu0IOjx/view?usp=sharing
+<a href="https://drive.google.com/file/d/1STw0IqLp3mAWHen87Ad3kiC70IuFGcoe/view?usp=sharing
 ">Find My Resume Here!</a>
 </div>
 
 ### - Expertise :
 - ✨ Data Structures & Algorithms
 - ✨ React and Redux
-- ✨ Typescript
-- ✨ Next Js
+- ✨ Javascript,Expres,Node
+- ✨ LLD & AWS
+- ✨ Websocket,Redis,MQTT,Node-Mailer
+
 ### - Hobbies : 
 - ✨ Travelling
 - ✨ Watching Anime
